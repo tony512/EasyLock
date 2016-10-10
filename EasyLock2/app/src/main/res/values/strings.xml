@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyLock</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="control_encenderDisp">Encender dispositivo</string>
+    <string name="control_conectarDisp">Conectar dispositivo</string>
+    <string name="control_encenderWifi">Encender Wifi</string>
+    <string name="control_encender_datos">Encender datos moviles</string>
+    <string name="accion_contactanos">contactanos</string>
+</resources>
